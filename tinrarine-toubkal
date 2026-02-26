@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>تينرارين توبقال | الهوية تلتقي بالذكاء الاصطناعي</title>
+
+<style>
+body{
+    margin:0;
+    font-family: 'Segoe UI', sans-serif;
+    background:#0f2e1f;
+    color:white;
+    text-align:center;
+    line-height:1.8;
+}
+
+header{
+    padding:100px 20px;
+    background:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),
+    url('https://images.unsplash.com/photo-1601582589907-f92af5ed9db8');
+    background-size:cover;
+    background-position:center;
+}
+
+h1{
+    color:#d4af37;
+    font-size:45px;
+    margin-bottom:10px;
+}
+
+h2{
+    color:#d4af37;
+}
+
+section{
+    padding:70px 20px;
+}
+
+.tools{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+    gap:20px;
+    max-width:1000px;
+    margin:auto;
+}
+
+.card{
+    background:#123524;
+    padding:20px;
+    border-radius:15px;
+}
+
+a.button{
+    display:inline-block;
+    margin-top:20px;
+    padding:12px 25px;
+    background:#d4af37;
+    color:black;
+    text-decoration:none;
+    border-radius:30px;
+    font-weight:bold;
+}
+
+footer{
+    background:#081c15;
+    padding:30px;
+    margin-top:40px;
+}
+
+.social a{
+    display:block;
+    margin:10px;
+    color:#d4af37;
+    text-decoration:none;
+    font-size:18px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>تينرارين توبقال</h1>
+<p>من توبقال إلى العالم — هوية أصيلة بتقنيات المستقبل</p>
+<a href="#about" class="button">اكتشف المشروع</a>
+</header>
+
+<section id="about">
+<h2>رؤيتنا</h2>
+<p>
+نؤمن أن المستقبل لا يُبنى بالخوارزميات فقط،
+بل يُصنع بالهوية، واللغة، والرموز، والذاكرة.
+تينرارين توبقال جسر بين الذكاء الاصطناعي
+وروح جبال توبقال الأمازيغية.
+</p>
+</section>
+
+<section>
+<h2>ماذا نقدم</h2>
+<div class="tools">
+
+<div class="card">
+<h3>✍️ توليد المحتوى الذكي</h3>
+<p>إنشاء محتوى احترافي مخصص للمشاريع المحلية والصفحات الاجتماعية.</p>
+</div>
+
+<div class="card">
+<h3>🎨 تصميم إبداعي</h3>
+<p>تصاميم مستوحاة من الهوية الأمازيغية بروح عصرية رقمية.</p>
+</div>
+
+<div class="card">
+<h3>📊 تحليل وتطوير</h3>
+<p>تحليل بيانات المشاريع الرقمية وتحسين الأداء والنمو.</p>
+</div>
+
+<div class="card">
+<h3>🎓 تعليم الذكاء الاصطناعي</h3>
+<p>محتوى تدريبي مبسط لنشر الثقافة الرقمية في المنطقة.</p>
+</div>
+
+</div>
+</section>
+
+<section>
+<h2>لماذا تينرارين توبقال؟</h2>
+<p>
+لأننا في 2026 نحتاج إلى تكنولوجيا تشبهنا،
+تفهم لغتنا وسياقنا،
+وتعزز هويتنا بدل أن تمحوها.
+</p>
+<a href="#social" class="button">انضم إلى الرحلة</a>
+</section>
+
+<section id="social">
+<h2>تابعنا</h2>
+<div class="social">
+<a href="https://www.facebook.com/share/1HcU2FTztm/" target="_blank">Facebook</a>
+<a href="https://www.instagram.com/hanini.1505" target="_blank">Instagram</a>
+<a href="https://youtube.com/@medhaniniyoutube" target="_blank">YouTube</a>
+</div>
+</section>
+
+<footer>
+© 2026 تينرارين توبقال — جميع الحقوق محفوظة
+</footer>
+
+</body>
+</html>
